@@ -51,7 +51,7 @@ The output reported by the models is presented in the following code sections:
 
 ### SMOTEENN Classifier
 
-![SMOTEENN Classifier](Resources/images/smoteen_over-undersampler.png)
+![SMOTEENN Classifier](Resources/images/smoteenn_over-undersampler.png)
 
 ### Balanced Random Forest Classifier
 
