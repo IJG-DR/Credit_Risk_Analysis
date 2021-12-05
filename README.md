@@ -39,23 +39,23 @@ The *Python* code utilized for the analysis is contained in two *ipynb* files in
 
 The output reported after running each of the models is presented in the following code sections:
 
-### Random Oversample Classifier
+### * Random Oversample Classifier
 
 ![Random Oversample Classifier](Resources/images/random_oversampler.png)
 
-### SMOTE Classifier
+### * SMOTE Classifier
 
 ![SMOTE Classifier](Resources/images/smote_oversampler.png)
 
-### Cluster Centroids Classifier
+### * Cluster Centroids Classifier
 
 ![Cluster Centroids Classifier](Resources/images/clustered_centroid_undersampler.png)
 
-### SMOTEENN Classifier
+### * SMOTEENN Classifier
 
 ![SMOTEENN Classifier](Resources/images/smoteenn_over-undersampler.png)
 
-### Balanced Random Forest Classifier
+### * Balanced Random Forest Classifier
 
 ![Balanced Random Forest Classifier](Resources/images/balanced_random_forest.png)
 
@@ -66,7 +66,7 @@ The report of feature importance is presented below, sorted in descending order 
 ![Feature Importance](Resources/images/features_3.png)
 
 
-### Easy Ensemble Classifier
+### * Easy Ensemble Classifier
 
 ![Easy Ensemble Classifier](Resources/images/easy_ensemble.png)
 
